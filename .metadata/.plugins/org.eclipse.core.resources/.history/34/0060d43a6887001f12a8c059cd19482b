@@ -1,0 +1,5 @@
+package com.absjuniordev.lab.model;
+
+public class EnderecoRepository {
+
+}
