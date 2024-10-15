@@ -1,4 +1,4 @@
-package com.absjuniordev.lab.service;
+package com.absjuniordev.lab.doc;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
