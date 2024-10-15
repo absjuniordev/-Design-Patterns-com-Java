@@ -1,4 +1,4 @@
-# Projeto: Padrões de Projeto com Spring Boot
+# Padrões de Projeto com Spring Boot
 
 Este projeto exemplifica a implementação de alguns padrões de projeto utilizando o Spring Boot. O objetivo principal é demonstrar a criação de uma API REST que gerencia clientes e seus endereços, utilizando integração com a API ViaCEP para consulta de endereços a partir do CEP informado.
 
