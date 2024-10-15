@@ -779,3 +779,6 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.webjars:s
 2024-10-14 21:35:29,994 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-10-14 21:35:30,000 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2024-10-14 21:35:30,006 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\wkt\lab-padroes-projeto-spring\lab-padroes-projeto-spring\src\test\resources
+2024-10-14 21:42:05,865 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-10-14 21:42:05,871 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-10-14 21:42:05,873 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\wkt\lab-padroes-projeto-spring\lab-padroes-projeto-spring\src\test\resources
