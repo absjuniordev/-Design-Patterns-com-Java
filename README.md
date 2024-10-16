@@ -65,6 +65,7 @@ http://localhost:8080/swagger-ui/index.html
 ```
 Através do Swagger, é possível visualizar todas as rotas disponíveis e testar as requisições diretamente na interface.
 
-
+![Nome da Imagem](https://github.com/absjuniordev/design_patterns/blob/main/swagger.png)
+ 
 
 Os testes cobrem o funcionamento da aplicação, garantindo a integridade dos principais fluxos de negócio.
